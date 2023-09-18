@@ -1,0 +1,7 @@
+'https://catalog.wb.ru/catalog/bl_shirts/catalog?appType=1&cat=8126&curr=rub&dest=-1257786&page=1&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
+'https://catalog.wb.ru/catalog/pants/catalog?appType=1&cat=8127&curr=rub&dest=-1257786&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
+'https://catalog.wb.ru/catalog/outwear1/catalog?appType=1&cat=63010&curr=rub&dest=-1257786&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
+'https://catalog.wb.ru/catalog/jumpers_cardigans/catalog?appType=1&cat=8130&curr=rub&dest=-1257786&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
+'https://catalog.wb.ru/catalog/jeans/catalog?appType=1&cat=8131&curr=rub&dest=-1257786&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
+'https://catalog.wb.ru/catalog/jumpers_cardigans/catalog?appType=1&cat=8130&curr=rub&dest=-1257786&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
+'https://catalog.wb.ru/catalog/overalls/catalog?appType=1&cat=8133&curr=rub&dest=-1257786&regions=80,38,83,4,64,33,68,70,30,40,86,75,69,1,31,66,110,48,22,71,114&sort=priceup&spp=30',
